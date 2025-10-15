@@ -13,8 +13,8 @@ pkg upgrade && pkg install git
 - Clone this repository
 
 ```
-git clone --depth=1 https://github.com/xamarth/termuxqt.git
-cd termuxqt
+git clone --depth=1 https://github.com/xamarth/termuxqt.git qt
+cd qt
 chmod +x setup.sh
 ./setup.sh --install
 ```
