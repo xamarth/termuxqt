@@ -1,2 +1,3 @@
-# termuxqt
-Termux Cutie
+# Termux Cutie
+
+Cute Theme For Termux
