@@ -210,3 +210,5 @@ elif [[ "$1" == "--uninstall" ]]; then
 else
 	{ usage; reset_color; exit 0; }
 fi
+
+## xamarth
